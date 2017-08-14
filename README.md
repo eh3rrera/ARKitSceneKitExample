@@ -6,7 +6,7 @@ Simple AR app made with ARKit and SceneKit. Follow the tutorial at the Pusher bl
 
 # Requirements
 
-- Xcode 9 (Beta 2 at least)
+- Xcode 9 (Beta 5 at least)
 - iOS 11
 - An iOS device with an A9 or better processor (iPhone 6s or superior, iPad Pro, iPad 2017)
 

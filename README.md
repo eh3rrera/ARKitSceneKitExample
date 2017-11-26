@@ -1,12 +1,12 @@
 # ARKitSceneKitExample
-Simple AR app made with ARKit and SceneKit. Follow the tutorial at the Pusher blog (not yet published).
+Simple AR app made with ARKit and SceneKit. Follow the [tutorial at Pusher's blog](https://blog.pusher.com/building-an-ar-app-with-arkit-and-scenekit/).
 
 [![ARKit an SceneKit Example](https://img.youtube.com/vi/wc3lzPvTQfY/0.jpg)](http://www.youtube.com/watch?v=wc3lzPvTQfY)
 
 
 # Requirements
 
-- Xcode 9 (Beta 5 at least)
+- Xcode 9
 - iOS 11
 - An iOS device with an A9 or better processor (iPhone 6s or superior, iPad Pro, iPad 2017)
 
